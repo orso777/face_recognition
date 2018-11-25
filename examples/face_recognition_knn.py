@@ -1,6 +1,5 @@
 """
 This is an example of using the k-nearest-neighbors (KNN) algorithm for face recognition.
-
 When should I use this example?
 This example is useful when you wish to recognize a large set of known people,
 and make a prediction for an unknown person in a feasible computation time.
